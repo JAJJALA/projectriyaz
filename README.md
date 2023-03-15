@@ -6,7 +6,7 @@ This is a web based application developed for health related telugu based websit
 ###This is web based restaurent application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft,Future skills prime,quess,Github and EY.
 
 ** Project Link ** -https://thankful-forest-07d102e00.2.azurestaticapps.net/
-** Project demo video link **-
+** Project demo video link **-https://youtu.be/Dt2PNDT5BMA
 
 Azure technologies uesd for project
 *Static Web Pages
